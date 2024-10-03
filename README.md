@@ -62,3 +62,4 @@ This project is currently in development. Contributions are welcome!
 [![Twitter](https://img.icons8.com/ios-filled/50/000000/twitter.png)](https://twitter.com)
 [![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/)
 [![Facebook](https://img.icons8.com/ios-filled/50/000000/facebook.png)](https://facebook.com)
+[![Dev.to](https://img.icons8.com/ios-filled/50/000000/programming.png)](https://dev.to)
